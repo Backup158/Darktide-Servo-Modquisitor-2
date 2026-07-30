@@ -526,6 +526,11 @@
 		{"required": "MiniAudioAddon",
 			"dependent": "ElevatorMusic",
 				"url": "https://www.nexusmods.com/warhammer40kdarktide/mods/665"},
+
+		{"required": "NPCLook",
+			"dependent": "NPCLookLoadouts",
+				"url": "https://www.nexusmods.com/warhammer40kdarktide/mods/1094"},
+		
 		{"required": "PlayerOutlines",
 			"dependent": "outline_colours",
 				"url": "https://www.nexusmods.com/warhammer40kdarktide/mods/734"},
